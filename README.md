@@ -1,6 +1,6 @@
 ## Installing Home Assistant Supervised on Debian 11
 
-This guide will help you to install Home Assistant Supervised, on almost any machine type you choose. This guide has been tested on machines including a Lenovo m72e, Dell Optiplex SFF 990, Dell Optiplex USFF 780 and a HP T520 thin client.
+This guide will help you to install Home Assistant Supervised, on almost any machine type you choose. This guide has been tested on machines including a Lenovo m72e, Dell Optiplex SFF 990, Dell Optiplex USFF 780 and a HP T520 thin client and Samsung N150 (old notebook).
 
 :warning: Using Debian 11 and following a strict set of guidelines available [HERE](https://github.com/home-assistant/architecture/blob/master/adr/0014-home-assistant-supervised.md) will give you a supported installation of Home Assistant Supervised. If you choose at anytime to install additional software to the Debian operating system, your installation will become officially unsupported. Community support via the forums is always available however.
 
@@ -186,5 +186,4 @@ Once you have done this, you should see a message saying, *Command completed suc
 
 ___
 I welcome feedback on this guide, please feel free to tag me or PM if you have suggestions on how to make improvements.
-
-Thank you to [nickrout](https://community.home-assistant.io/u/nickrout/) for testing, feedback and edits to help improve this guide and to others who have contributed code and ideas, you support is appreciated.
+Thank you to [ChrisKoh83](https://github.com/ChrisKoh83) for update.
